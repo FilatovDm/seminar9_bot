@@ -77,5 +77,3 @@ app.add_handler(CommandHandler("start", hello))
 app.add_handler(CommandHandler("del", words))
 app.add_handler(CommandHandler("game", candy))
 app.add_handler(CommandHandler("move", move))
-
-app.run_p
